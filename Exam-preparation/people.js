@@ -58,9 +58,3 @@ function solve(){
         Manager
     };
 }
-
-let app = solve();
-let junior = new app.Senior('Pesho', 30);
-junior.work();
-junior.work();
-junior.collectSalary();
